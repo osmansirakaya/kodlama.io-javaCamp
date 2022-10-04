@@ -7,7 +7,7 @@ public class Main {
 		public static void main (String [] args) {
 			
 			Product product1 = new Product(); 
-			product1.setName("kahve makinesi"); 
+			product1.setName("kýrmýzý kahve makinesi"); 
 			product1.setDiscount(7);
 			product1.setUnitPrice(7500);
 			product1.setUnitsInStock(3);
