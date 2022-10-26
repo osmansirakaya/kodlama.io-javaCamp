@@ -4,6 +4,6 @@ public class Main {
 
             customerManager.Add();
             customerManager.Update();
-            customerManager.Remove();
+           // customerManager.Remove();
     }
 }
